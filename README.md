@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  Jeweman
+  DivvysNation
 </h1>
 </div>
 <p align="center">
